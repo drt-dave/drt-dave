@@ -22,7 +22,6 @@ I build performant, accessible web applications with clean architecture and mode
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [PomoDoroto](https://github.com/drt-dave/pomodoro) | Productivity timer with session tracking, tags, stats, and 5-language support — [Live Demo](https://pomodoroto.vercel.app) | React 19, TypeScript, Zustand, Vite |
-| [revo-game](https://github.com/drt-dave/revo-game) | Spatial Evolutionary Game Theory simulator (in progress) | React, TypeScript |
 
 ## Links
 
